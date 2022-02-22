@@ -1,0 +1,54 @@
+.text{
+    border: 20px solid violet;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    border: 6px solid red;
+}
+
+.image{
+    height: 165px;
+    text-align: left;
+}
+
+
+header{
+    height: 250px;
+    background-image:linear-gradient(to top,red,white,green);
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.fullnav{
+    border: 18px solid #eee;
+    background-image: linear-gradient(to right,green,white,orange);
+}
+.home{
+    margin: 37px;
+}
+.Gallery{
+    margin: 37px;
+}
+.Contacts{
+    margin: 37px;
+}
+.About_us{
+    margin: 37px;
+}
+.veenavidya{
+    text-align: center;
+    color:chocolate;
+}
+.paragraphcontent{
+    text-align: center;
+    border: 18px solid indianred;
+    margin: 0 10px 0 10px;
+    height: 300px;
+    color: slateblue;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
