@@ -3,4 +3,5 @@ body{
     text-shadow: 50px;
     color: rgb(10, 25, 231);
     background-image:linear-gradient(to left ,yellow,violet,pink);
+    background-repeat: no-repeat;
 }
