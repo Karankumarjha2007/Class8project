@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Roboto+Slab&family=Rubik:ital,wght@1,500&display=swap');
+
+
+
 .text{
     border: 20px solid violet;
     text-align: center;
@@ -47,6 +51,8 @@ header{
     margin: 0 10px 0 10px;
     height: 300px;
     color: slateblue;
+    font-family: 'Roboto Slab', serif;
+    
 }
 a{
     color: red;
