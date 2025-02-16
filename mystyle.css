@@ -2,18 +2,16 @@
 
 
 
-.text{
-    border: 20px solid violet;
-    text-align: center;
-}
 .footer{
     text-align: center;
     border: 6px solid red;
 }
 
 .image{
-    height: 165px;
-    align-content: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 
